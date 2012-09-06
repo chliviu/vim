@@ -1,0 +1,15 @@
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = git://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/virtualenv.vim"]
+	path = bundle/virtualenv.vim
+	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "bundle/django.vim"]
+	path = bundle/django.vim
+	url = https://github.com/vim-scripts/django.vim
+[submodule "bundle/IndentAnything"]
+	path = bundle/IndentAnything
+	url = https://github.com/vim-scripts/IndentAnything.git
